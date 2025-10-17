@@ -1,3 +1,3 @@
 # Git-Practice
-This is for practice
+This is for practice.
 Author: Kaushal Tank
